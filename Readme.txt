@@ -19,7 +19,6 @@ Convert English days, months, and digits into Bangla language.
 - Automatic conversion of English digits into Bangla.
 - Supports both full and shortened forms of days and months.
 - Seamless integration with WordPress date functions.
-
 This plugin is lightweight and does not require any special configuration after activation.
 
 == Installation ==
